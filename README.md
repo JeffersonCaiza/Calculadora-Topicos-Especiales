@@ -22,5 +22,5 @@ DIVISION PARA 0
 DIVISION PARA 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/6.png?raw=true)
 
-mULTIPLICACION POR 0
+MULTIPLICACION POR 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/7.png?raw=true)
