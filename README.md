@@ -19,8 +19,5 @@ DIVISION
 DIVISION PARA 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/5.png?raw=true)
 
-DIVISION PARA 0
-![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/6.png?raw=true)
-
 MULTIPLICACION POR 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/7.png?raw=true)
