@@ -7,20 +7,20 @@ SUMA
 
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/1.png?raw=true)
 
-
+RESTA
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/2.png?raw=true)
 
-
+MULTIPLCACION
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/3.png?raw=true)
 
-
+DIVISION
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/4.png?raw=true)
 
-
+DIVISION PARA 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/5.png?raw=true)
 
-
+DIVISION PARA 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/6.png?raw=true)
 
-
+mULTIPLICACION POR 0
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/7.png?raw=true)
