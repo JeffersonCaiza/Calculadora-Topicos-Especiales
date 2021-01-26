@@ -5,4 +5,4 @@ como la divicion y multiplicacion para 0
 
 SUMA
 
-![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/master/1.png?raw=true)
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/1.png?raw=true)
