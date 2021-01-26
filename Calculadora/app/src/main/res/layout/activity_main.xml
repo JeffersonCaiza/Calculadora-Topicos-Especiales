@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/resultado"
+        android:layout_width="match_parent"
+        android:layout_height="97dp"
+        android:text="0"
+        android:textAllCaps="false"
+        android:textColor="#CC0C0C"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/numero1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:ems="10"
+        android:hint="Escribe un numero"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/numero2"
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:ems="10"
+        android:hint="Escribe un numero"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/button_suma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Suma"
+        app:backgroundTint="#CF0E0E" />
+
+    <Button
+        android:id="@+id/button2_resta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resta"
+        app:backgroundTint="#CF0E0E" />
+
+    <Button
+        android:id="@+id/button3_multiplicacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mutilplicacion"
+        app:backgroundTint="#CF0E0E" />
+
+    <Button
+        android:id="@+id/button4_division"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Division"
+        app:backgroundTint="#CF0E0E" />
+</LinearLayout>
