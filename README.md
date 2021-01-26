@@ -6,3 +6,21 @@ como la divicion y multiplicacion para 0
 SUMA
 
 ![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/1.png?raw=true)
+
+
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/2.png?raw=true)
+
+
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/3.png?raw=true)
+
+
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/4.png?raw=true)
+
+
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/5.png?raw=true)
+
+
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/6.png?raw=true)
+
+
+![ScreenShot](https://github.com/JeffersonCaiza/Calculadora-Topicos-Especiales/blob/main/7.png?raw=true)
